@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1OfuBi6uDRBO8kvwuyZd_pS2P8lT0lO_H?usp=sha
 
 The dataset is an amalgamation of two datasets:
 1. Collected from Prajna Bhandary https://github.com/prajnasb/observations/tree/master/experiements/data
-2. Collected from Emrul Zawad (crosses github upload file size restrictions)
+2. Collected from Chandrika Deb https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset
 
 # How to run the program
 
